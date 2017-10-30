@@ -1,12 +1,16 @@
-Task 0 (get familiar with Git and GitHub):
+### **Task 0 (get familiar with Git and GitHub):**
 
 1. Finish the course How to use Git and GitHub
 
 The information in this course wasn't new to me. But it was usefull to refresh it in my memory.
 
+![Screenshot](task_0/udacity_git.png)
+
 2. Finish try.github.io
 
 After the udacity course this course was really easy to complete. 
+
+![Screenshot](task_0/codeschool_git.png)
 
 3. Create repository named "kottans_frontend".
 
