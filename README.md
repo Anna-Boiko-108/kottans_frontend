@@ -52,3 +52,24 @@ Ok. Right after I'll finish writing in here.
 
 	It was interesting to get to know about the difference between the types of connections in HTTP/1.0 and HTTP/1.1 versions. 
 	The status codes, request\response headers, all of these I will definatelly see and use in my future researches and work.
+
+
+### **Task 2**
+
+0. "Version control with Git" course	
+
+	The most usefull information from this course was the "git log" command with it's various flags. I finally got the instrument to work with the commits history!
+	The "git commit --amend", "git revert", "git reset" commands were completely new to me.
+	Also I've finally understood what the fast-forward merge is. It's so simple! How could I misunderstand such a simple thing... The explanation videos in this course are great and they are much better that in the "How to use Git and GitHub" course!
+
+![Screenshot](task_2/Version_Control_With_Git.png)
+
+1. "GitHub & Collaboration" course
+
+	I liked the idea of squashing commits by using the "git rebase" command. I think I'll frequently be using it in future.
+
+![Screenshot](task_2/Github_and_Collaboration.png)
+
+2. Send a message in gitter channel with the link to you repo and "@/all" tag.
+
+	Done.
