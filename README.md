@@ -73,3 +73,11 @@ Ok. Right after I'll finish writing in here.
 2. Send a message in gitter channel with the link to you repo and "@/all" tag.
 
 	Done.
+
+### **Task 3**
+
+1. "HTML and CSS Syntax" course
+
+	The information given in this course wasn't new to me, but it was interesting to refresh some details in my memory such as the order of values in shorthand properties.
+
+![Screenshot](task_3/HTML_and_CSS_Syntax.png)
