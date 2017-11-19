@@ -81,3 +81,13 @@ Ok. Right after I'll finish writing in here.
 	The information given in this course wasn't new to me, but it was interesting to refresh some details in my memory such as the order of values in shorthand properties.
 
 ![Screenshot](task_3/HTML_and_CSS_Syntax.png)
+
+
+### **Task 4**
+
+1. "Responsive Web Design Fundamentals" course
+
+	I've learned a lot from this course. Althought the concept of responsive web design isn't new to me but it was so interesting to see how it's implemented in practice using CSS. 
+	And the games in extra materials are great! 
+
+![Screenshot](task_4/Responsive_Web-Design_Fundamentals.png)
