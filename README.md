@@ -91,3 +91,11 @@ Ok. Right after I'll finish writing in here.
 	And the games in extra materials are great! 
 
 ![Screenshot](task_4/Responsive_Web-Design_Fundamentals.png)
+
+### **Task 5**
+
+1. "Intro to JavaScript" course
+
+	It was really an "intro" to JavaScript. All basic constructions were presented but too litle practice. Can't wait to begin the next JS course!
+
+![Screenshot](task_5/Intro_To_JavaScript.png)
