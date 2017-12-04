@@ -99,3 +99,14 @@ Ok. Right after I'll finish writing in here.
 	It was really an "intro" to JavaScript. All basic constructions were presented but too litle practice. Can't wait to begin the next JS course!
 
 ![Screenshot](task_5/Intro_To_JavaScript.png)
+
+### **Task 6**
+
+1. "Object-Oriented JavaScript" course
+
+	Scopes, closures, prototype chains, these concepts were quite easy to understand. But I need to learn much more about the concept of Prototypal classes and the JS patterns.
+	[Frogger game](https://github.com/Boyko-Anna/frontend-nanodegree-arcade-game)
+
+![Screenshot](task_6/Object-Oriented_JS_1.png)
+
+![Screenshot](task_6/Object-Oriented_JS_2.png)
