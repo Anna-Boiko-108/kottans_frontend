@@ -121,10 +121,10 @@ Ok. Right after I'll finish writing in here.
 
 ### **Task 8**
 
-	## Memory pair game
+## Memory pair game
 
-	Source: [GitHub](https://github.com/Boyko-Anna/memory-game/)
-	Demo: [GitHub pages](https://boyko-anna.github.io/memory-game/)
+Source: [GitHub](https://github.com/Boyko-Anna/memory-game/)
+Demo: [GitHub pages](https://boyko-anna.github.io/memory-game/)
 
 	It was really a chalange but I did it! And still I have a lot of questions remained.
 
