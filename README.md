@@ -118,3 +118,14 @@ Ok. Right after I'll finish writing in here.
 	I finally completed this course! As for me I think this course is not for the beginners like I am. At first I thought: "That's a really good idea 'Offline first', I can get it!", but during the other 2/3 of the course I spent 95% of my time trying to understand the code and on the last chapter I think I failed doing that... So the main conclusion is that I will need to study this course once again in future with more knowledge of JS.
 
 ![Screenshot](task_7/Offline_Web_Applications.png) 
+
+### **Task 8**
+
+	## Memory pair game
+
+	Source: [GitHub](https://github.com/Boyko-Anna/memory-game/)
+	Demo: [GitHub pages](https://boyko-anna.github.io/memory-game/)
+
+	It was really a chalange but I did it! And still I have a lot of questions remained.
+
+![Screenshot](task_8/memory-game.png)
