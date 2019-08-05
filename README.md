@@ -129,3 +129,15 @@ Demo: [GitHub pages](https://boyko-anna.github.io/memory-game/)
 	It was really a chalange but I did it! And still I have a lot of questions remained.
 
 ![Screenshot](task_8/memory-game.png)
+
+
+
+### **Task 10** 
+
+## [Weather application](https://kottans-frontend-2018.github.io/assignments_Boyko-Anna/task_10/dist/) . 
+Source: [GitHub](https://github.com/kottans-frontend-2018/assignments_Boyko-Anna/tree/task_10) .
+
+### **Task 11** 
+
+## [Simple layout](https://kottans-frontend-2018.github.io/assignments_Boyko-Anna/task_11/) . 
+Source: [GitHub](https://github.com/kottans-frontend-2018/assignments_Boyko-Anna/tree/task_11) .
